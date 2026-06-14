@@ -1,0 +1,2 @@
+# calculatorWithReact
+Calculator With React is a simple and responsive web application built using React.js that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The project demonstrates core React concepts including components, props, state management with useState, event handling, conditional rendering, and dynamic UI updates. Users can input mathematical expressions through an interactive button interface and receive instant results in real time.

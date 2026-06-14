@@ -1,0 +1,13 @@
+body{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.calculator{
+  border: 1px solid rgb(125, 125, 125);
+  width: 250px;
+  border-radius: 20px;
+  background-color: #142f44;
+}
+

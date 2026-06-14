@@ -1,0 +1,23 @@
+.buttonContainer{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 25px;
+  margin-bottom: 17px;
+}
+
+.button{
+  width: 45px;
+  height: 45px;
+  margin: 5px;
+  border-radius: 50%;
+  border: none;
+  background-color: #205b7a;
+  color: #a2bbcf;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.button:hover{
+  box-shadow: 2px 2px 5px #71b2d4;
+}

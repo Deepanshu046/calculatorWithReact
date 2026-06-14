@@ -1,0 +1,14 @@
+.display{
+  margin: 10px;
+  width: 185px;
+  font-size: 25px;
+  position: relative;
+  left: 10px;
+  top: 20px;
+  border-radius: 25px;
+  border: none;
+  background-color: #000000;
+  color: #a2bbcf;
+  height: 42px;
+  padding: 0 10px 0 10px;
+}
